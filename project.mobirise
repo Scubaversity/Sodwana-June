@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-23_1133",
+    "name": "Sodwana-June",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,10 +31,13 @@
     },
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/3d-logo-transparent-128x60.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
